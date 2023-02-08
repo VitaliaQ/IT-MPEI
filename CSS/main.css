@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+body{color: aquamarine;}
+.arcadiy {color: rgb(216, 29, 29);}
+#a1 {background-color: darkgoldenrod;}   
+p b {color: blueviolet;}
+body 
+{
+    background-image: url(https://wallpaperstock.net/blue-winter-forest-full-moon-wallpapers_47959_768x1024.jpg);
+    background-attachment: fixed;
+}
+body
+{
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+    font-family: 'Comforter Brush', cursive;
+}
